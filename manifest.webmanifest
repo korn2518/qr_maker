@@ -1,0 +1,17 @@
+{
+  "name": "이미지 합성 QR 메이커",
+  "short_name": "QR 메이커",
+  "description": "웹 주소·지도 주소·텍스트·Wi-Fi를 내 이미지와 합성한 디자인 QR 코드로 만들어요.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f2ee",
+  "theme_color": "#ff5a36",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
